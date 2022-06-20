@@ -1,4 +1,4 @@
 # ecommerce
-Instagram /n
-Programmer : @trikameranggi n/
+Instagram <br/>
+Programmer : @trikameranggi <br/>
 Designer : @maulism_01
